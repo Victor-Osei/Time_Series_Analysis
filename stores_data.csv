@@ -1,0 +1,55 @@
+,store_nbr,city,state,type,cluster
+0,1,Quito,Pichincha,D,13
+1,2,Quito,Pichincha,D,13
+2,3,Quito,Pichincha,D,8
+3,4,Quito,Pichincha,D,9
+4,5,Santo Domingo,Santo Domingo de los Tsachilas,D,4
+5,6,Quito,Pichincha,D,13
+6,7,Quito,Pichincha,D,8
+7,8,Quito,Pichincha,D,8
+8,9,Quito,Pichincha,B,6
+9,10,Quito,Pichincha,C,15
+10,11,Cayambe,Pichincha,B,6
+11,12,Latacunga,Cotopaxi,C,15
+12,13,Latacunga,Cotopaxi,C,15
+13,14,Riobamba,Chimborazo,C,7
+14,15,Ibarra,Imbabura,C,15
+15,16,Santo Domingo,Santo Domingo de los Tsachilas,C,3
+16,17,Quito,Pichincha,C,12
+17,18,Quito,Pichincha,B,16
+18,19,Guaranda,Bolivar,C,15
+19,20,Quito,Pichincha,B,6
+20,21,Santo Domingo,Santo Domingo de los Tsachilas,B,6
+21,22,Puyo,Pastaza,C,7
+22,23,Ambato,Tungurahua,D,9
+23,24,Guayaquil,Guayas,D,1
+24,25,Salinas,Santa Elena,D,1
+25,26,Guayaquil,Guayas,D,10
+26,27,Daule,Guayas,D,1
+27,28,Guayaquil,Guayas,E,10
+28,29,Guayaquil,Guayas,E,10
+29,30,Guayaquil,Guayas,C,3
+30,31,Babahoyo,Los Rios,B,10
+31,32,Guayaquil,Guayas,C,3
+32,33,Quevedo,Los Rios,C,3
+33,34,Guayaquil,Guayas,B,6
+34,35,Playas,Guayas,C,3
+35,36,Libertad,Guayas,E,10
+36,37,Cuenca,Azuay,D,2
+37,38,Loja,Loja,D,4
+38,39,Cuenca,Azuay,B,6
+39,40,Machala,El Oro,C,3
+40,41,Machala,El Oro,D,4
+41,42,Cuenca,Azuay,D,2
+42,43,Esmeraldas,Esmeraldas,E,10
+43,44,Quito,Pichincha,A,5
+44,45,Quito,Pichincha,A,11
+45,46,Quito,Pichincha,A,14
+46,47,Quito,Pichincha,A,14
+47,48,Quito,Pichincha,A,14
+48,49,Quito,Pichincha,A,11
+49,50,Ambato,Tungurahua,A,14
+50,51,Guayaquil,Guayas,A,17
+51,52,Manta,Manabi,A,11
+52,53,Manta,Manabi,D,13
+53,54,El Carmen,Manabi,C,3
