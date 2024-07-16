@@ -1,4 +1,5 @@
 /myenv
 /.env
-/train.csv
+/notebooks/train.csv
 /newenv
+/notebooks/.env
