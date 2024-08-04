@@ -6,14 +6,14 @@
 <div align="center">
   <br/>
 
-  <h3><b>Time Series Analysis and Favorita Store sales prediction</b></h3>
+  <h3><b>"Forecasting Sales in Retail: A Machine Learning Approach for Corporation Favorita"</b></h3>
 
 </div>
 
 #  Table of Contents
 
 - [ Table of Contents](#-table-of-contents)
-- [ \[Analyze and Predict Store Sales\] ](#-Analyze-and-Predict-Store-Sales-)
+- [ \["Forecasting Sales in Retail: A Machine Learning Approach for Corporation Favorita"\] ](# Forecasting Sales in Retail: A Machine Learning Approach for Corporation Favorita )
     - [Summary ](#summary-)
     - [ Project Description ](#-project-Description-)
     - [Objectives of Project](#-objective-of-Project-)
@@ -30,19 +30,20 @@
 ## Summary <a name="summary"></a>
 | Code      | Name        | Published Article |  Deployed Power BI |
 |-----------|-------------|:-------------:|------:|
-| LP3 | Regression Project-The Case of Favorita Stores Sale Prediction | Link  | Link |
+| LP3 | Regression Project-The Case of Favorita Stores Sale Prediction | '[Published Article](https://medium.com/@akuaakonnor43/time-series-machine-learning-the-case-of-corporation-favorita-65a96b138f1b)'  | [Power Bi File](https://app.powerbi.com/links/9v5MW2poe2?ctid=4487b52f-f118-4830-b49d-3c298cb71075&pbi_source=linkShare) |
 
 ## Business Scenario
 As data scientists in Corporation Favorita, a large Ecuadorian-based grocery retailer, we are tasked to ensure that there is always the right quantity of products in stock.
-To do this we have decided to build a series of machine learning models to forecast the demand of products in various locations.We have been provided with some datasets to help in this project.
+To do this we have decided to build a series of machine learning models to forecast the sales of products in various locations.We have been provided with some datasets to help in this project.
 
 
 ## Project Description <a name="project-description"></a>
-This project aims to ensure optimal inventory levels at Corporation Favorita, by leveraging machine learning models to forecast product demand across various locations. Accurate demand forecasting will help maintain the right quantity of products in stock, reducing instances of overstocking and stockouts, thereby enhancing customer satisfaction and minimizing operational costs. The project follows the CRISP-DM framework and utilizes data provided by the marketing and sales teams to develop and validate predictive models
+This project develops a machine learning model to predict sales at Favorita stores by analyzing trends, customer behavior, and external factors like holidays and promotions.
+Our insights will enable our client to optimize inventory, refine marketing strategies, and enhance profitability. We’ve created both statistical and machine learning models to ensure accuracy and flexibility.
   
 
 ## Objectives of Project <a name="objectives-of-project"></a>
-The primary objective of this project is to develop and implement a series of machine learning models to accurately forecast the demand for various products across different locations of Corporation Favorita. By achieving this objective, Corporation Favorita aims to optimize its inventory management, ensuring that the right quantity of products is consistently in stock. 
+The primary goal was to design and deploy machine learning models that accurately predict sales across various Corporation Favorita locations, enabling the company to optimize inventory management and enhance profitability
 
 
 ## Goal of Project <a name="goal-of-project"></a>
@@ -85,5 +86,4 @@ We reject the null hypothesis and conclude that promotions has significant effec
 
 ## Author <a name="author"></a>
 Team Fiji
-- GitHub: [name](Link)
-- LinkedIn: [name](Link)
+- Github: [Team Fiji- Github Repo](https://github.com/Victor-Osei/Time_Series_Analysis)
