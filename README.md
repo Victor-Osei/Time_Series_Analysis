@@ -30,7 +30,7 @@
 ## Summary <a name="summary"></a>
 | Code      | Name        | Published Article |  Deployed Power BI |
 |-----------|-------------|:-------------:|------:|
-| LP3 | Regression Project-The Case of Favorita Stores Sale Prediction | Link  | Link |
+| LP3 | Regression Project-The Case of Favorita Stores Sale Prediction | https://medium.com/@oseivictor10/time-series-analysis-the-case-of-corporation-favorita-ea9085d2a388  | https://app.powerbi.com/groups/me/reports/8a247fc4-7d4d-4bc7-a2f8-63dec3b87871/2ab61f7ce3eeb8e3b63a?experience=power-bi |
 
 ## Business Scenario
 As data scientists in Corporation Favorita, a large Ecuadorian-based grocery retailer, we are tasked to ensure that there is always the right quantity of products in stock.
@@ -85,5 +85,5 @@ We reject the null hypothesis and conclude that promotions has significant effec
 
 ## Author <a name="author"></a>
 Team Fiji
-- GitHub: [name](Link)
-- LinkedIn: [name](Link)
+- GitHub: [Victor-Osei]
+- LinkedIn: [Victor Osei Duah]
